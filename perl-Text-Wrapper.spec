@@ -82,7 +82,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.1/Text/Wrapper.pm
+/usr/lib/perl5/vendor_perl/5.28.2/Text/Wrapper.pm
 
 %files dev
 %defattr(-,root,root,-)
