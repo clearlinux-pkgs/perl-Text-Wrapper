@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Wrapper
 Version  : 1.05
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/C/CJ/CJM/Text-Wrapper-1.05.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CJ/CJM/Text-Wrapper-1.05.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libt/libtext-wrapper-perl/libtext-wrapper-perl_1.05-2.debian.tar.xz
@@ -106,4 +106,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Text/Wrapper.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Text/Wrapper.pm
