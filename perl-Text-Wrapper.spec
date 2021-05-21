@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Wrapper
 Version  : 1.05
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/C/CJ/CJM/Text-Wrapper-1.05.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CJ/CJM/Text-Wrapper-1.05.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libt/libtext-wrapper-perl/libtext-wrapper-perl_1.05-2.debian.tar.xz
